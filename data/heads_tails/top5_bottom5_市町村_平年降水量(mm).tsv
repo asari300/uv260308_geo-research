@@ -1,0 +1,11 @@
+﻿Rank	Prefecture	Municipality	prec_no	block_no	URL	Metric	年間	01	02	03	04	05	06	07	08	09	10	11	12
+1	宮崎県	えびの高原	87	0862	https://www.data.jma.go.jp/stats/etrn/view/nml_amd_ym.php?prec_no=87&block_no=0862&year=&month=&day=&view=	平年降水量(mm)	4625.0	117.4	187.3	253.4	307.7	364.5	1000.7	854.1	582.8	482.6	198.3	147.6	128.8
+2	静岡県	天城山	50	0454	https://www.data.jma.go.jp/stats/etrn/view/nml_amd_ym.php?prec_no=50&block_no=0454&year=&month=&day=&view=	平年降水量(mm)	4552.6	144.0	203.0	384.7	453.4	440.0	527.4	503.3	404.3	544.7	503.8	274.1	159.6
+3	高知県	魚梁瀬	74	1281	https://www.data.jma.go.jp/stats/etrn/view/nml_amd_ym.php?prec_no=74&block_no=1281&year=&month=&day=&view=	平年降水量(mm)	4484.0	100.9	170.5	266.4	333.8	383.5	589.0	721.5	690.8	642.4	300.6	169.9	114.7
+4	高知県	鳥形山	74	0753	https://www.data.jma.go.jp/stats/etrn/view/nml_amd_ym.php?prec_no=74&block_no=0753&year=&month=&day=&view=	平年降水量(mm)	4332.4	114.7	145.6	193.3	309.1	300.2	555.4	561.3	657.4	726.0	421.2	117.1	151.3
+5	和歌山県	色川	65	1172	https://www.data.jma.go.jp/stats/etrn/view/nml_amd_ym.php?prec_no=65&block_no=1172&year=&month=&day=&view=	平年降水量(mm)	3784.7	117.6	167.7	274.9	296.8	335.1	496.8	493.5	429.0	514.1	384.7	186.2	115.2
+890	岩手県	二戸	33	0207	https://www.data.jma.go.jp/stats/etrn/view/nml_amd_ym.php?prec_no=33&block_no=0207&year=&month=&day=&view=	平年降水量(mm)	1033.9	39.8	39.4	52.8	55.3	74.9	87.0	159.6	154.0	144.3	104.6	64.3	59.7
+891	青森県	十和田	31	0172	https://www.data.jma.go.jp/stats/etrn/view/nml_amd_ym.php?prec_no=31&block_no=0172&year=&month=&day=&view=	平年降水量(mm)	1031.1	37.8	35.2	50.5	59.7	80.5	94.3	146.0	159.8	159.9	108.8	58.6	51.2
+892	長野県	東御	48	0993	https://www.data.jma.go.jp/stats/etrn/view/nml_amd_ym.php?prec_no=48&block_no=0993&year=&month=&day=&view=	平年降水量(mm)	1013.2	31.8	33.2	60.6	62.2	86.8	120.5	156.4	122.4	146.3	118.3	46.6	28.3
+893	長野県	佐久	48	0408	https://www.data.jma.go.jp/stats/etrn/view/nml_amd_ym.php?prec_no=48&block_no=0408&year=&month=&day=&view=	平年降水量(mm)	964.0	25.6	28.5	52.4	58.9	84.7	119.1	143.3	106.4	153.6	129.3	40.8	21.5
+894	長野県	上田	48	0402	https://www.data.jma.go.jp/stats/etrn/view/nml_amd_ym.php?prec_no=48&block_no=0402&year=&month=&day=&view=	平年降水量(mm)	906.2	29.3	28.7	54.0	58.6	77.0	102.2	135.6	103.5	134.1	110.8	44.0	23.9

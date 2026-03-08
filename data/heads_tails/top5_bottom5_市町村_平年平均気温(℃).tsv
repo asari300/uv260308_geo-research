@@ -1,0 +1,11 @@
+﻿Rank	Prefecture	Municipality	prec_no	block_no	URL	Metric	年間	01	02	03	04	05	06	07	08	09	10	11	12
+1	沖縄県	波照間	91	1354	https://www.data.jma.go.jp/stats/etrn/view/nml_amd_ym.php?prec_no=91&block_no=1354&year=&month=&day=&view=	平年平均気温(℃)	24.3	19.0	19.5	20.9	23.2	25.7	28.1	29.1	28.8	27.7	25.7	23.5	20.5
+2	沖縄県	仲筋	91	1491	https://www.data.jma.go.jp/stats/etrn/view/nml_amd_ym.php?prec_no=91&block_no=1491&year=&month=&day=&view=	平年平均気温(℃)	24.3	18.7	19.5	20.4	22.8	25.6	28.2	29.5	29.1	28.1	26.0	23.6	20.2
+3	沖縄県	所野	91	1493	https://www.data.jma.go.jp/stats/etrn/view/nml_amd_ym.php?prec_no=91&block_no=1493&year=&month=&day=&view=	平年平均気温(℃)	24.3	18.8	19.5	20.6	23.0	25.8	28.1	29.2	28.9	27.9	25.8	23.5	20.2
+4	沖縄県	伊原間	91	1145	https://www.data.jma.go.jp/stats/etrn/view/nml_amd_ym.php?prec_no=91&block_no=1145&year=&month=&day=&view=	平年平均気温(℃)	24.1	18.6	19.0	20.5	22.8	25.4	27.8	29.0	28.8	27.7	25.6	23.3	20.2
+5	沖縄県	下地島	91	1490	https://www.data.jma.go.jp/stats/etrn/view/nml_amd_ym.php?prec_no=91&block_no=1490&year=&month=&day=&view=	平年平均気温(℃)	24.0	18.4	19.1	20.1	22.4	25.2	27.8	29.1	28.8	27.9	25.8	23.4	20.0
+604	岩手県	区界	33	1447	https://www.data.jma.go.jp/stats/etrn/view/nml_amd_ym.php?prec_no=33&block_no=1447&year=&month=&day=&view=	平年平均気温(℃)	6.6	-6.1	-5.4	-1.8	4.5	10.7	14.8	19.0	19.8	15.5	8.8	2.8	-3.0
+605	長野県	菅平	48	0992	https://www.data.jma.go.jp/stats/etrn/view/nml_amd_ym.php?prec_no=48&block_no=0992&year=&month=&day=&view=	平年平均気温(℃)	6.6	-6.2	-5.6	-1.8	4.8	10.7	14.7	18.8	19.5	15.3	8.9	3.0	-3.0
+606	岩手県	薮川	33	1078	https://www.data.jma.go.jp/stats/etrn/view/nml_amd_ym.php?prec_no=33&block_no=1078&year=&month=&day=&view=	平年平均気温(℃)	6.4	-6.6	-5.9	-2.1	4.2	10.4	14.8	18.9	19.7	15.3	8.5	2.3	-3.4
+607	福島県	鷲倉	36	1116	https://www.data.jma.go.jp/stats/etrn/view/nml_amd_ym.php?prec_no=36&block_no=1116&year=&month=&day=&view=	平年平均気温(℃)	5.9	-6.2	-5.8	-2.5	3.5	9.7	13.6	17.5	18.5	14.4	8.5	2.6	-3.2
+608	青森県	酸ケ湯	31	1079	https://www.data.jma.go.jp/stats/etrn/view/nml_amd_ym.php?prec_no=31&block_no=1079&year=&month=&day=&view=	平年平均気温(℃)	5.2	-7.5	-6.9	-3.5	2.8	9.1	13.6	17.7	18.4	14.1	7.7	1.2	-4.9

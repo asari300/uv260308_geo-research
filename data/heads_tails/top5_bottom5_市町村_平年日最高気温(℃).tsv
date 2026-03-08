@@ -1,0 +1,11 @@
+﻿Rank	Prefecture	Municipality	prec_no	block_no	URL	Metric	年間	01	02	03	04	05	06	07	08	09	10	11	12
+1	沖縄県	仲筋	91	1491	https://www.data.jma.go.jp/stats/etrn/view/nml_amd_ym.php?prec_no=91&block_no=1491&year=&month=&day=&view=	平年日最高気温(℃)	27.2	21.3	22.2	23.4	25.8	28.6	31.0	32.5	32.0	31.1	28.8	26.2	22.7
+2	沖縄県	波照間	91	1354	https://www.data.jma.go.jp/stats/etrn/view/nml_amd_ym.php?prec_no=91&block_no=1354&year=&month=&day=&view=	平年日最高気温(℃)	27.1	21.5	22.1	23.8	26.1	28.6	31.0	32.2	31.9	30.7	28.4	26.0	22.9
+3	沖縄県	大原	91	1251	https://www.data.jma.go.jp/stats/etrn/view/nml_amd_ym.php?prec_no=91&block_no=1251&year=&month=&day=&view=	平年日最高気温(℃)	27.0	21.1	21.8	23.6	26.0	28.6	31.0	32.2	32.0	30.7	28.4	25.8	22.6
+4	沖縄県	下地島	91	1490	https://www.data.jma.go.jp/stats/etrn/view/nml_amd_ym.php?prec_no=91&block_no=1490&year=&month=&day=&view=	平年日最高気温(℃)	26.9	21.2	22.1	23.1	25.3	28.2	30.4	32.1	31.8	30.9	28.7	26.2	22.7
+5	沖縄県	所野	91	1493	https://www.data.jma.go.jp/stats/etrn/view/nml_amd_ym.php?prec_no=91&block_no=1493&year=&month=&day=&view=	平年日最高気温(℃)	26.8	21.0	21.9	23.1	25.6	28.5	30.7	32.2	31.8	30.7	28.3	25.9	22.4
+604	秋田県	八幡平	32	1289	https://www.data.jma.go.jp/stats/etrn/view/nml_amd_ym.php?prec_no=32&block_no=1289&year=&month=&day=&view=	平年日最高気温(℃)	11.6	-2.0	-1.1	2.8	9.6	17.1	20.9	23.8	25.0	20.8	14.5	7.4	0.7
+605	岩手県	薮川	33	1078	https://www.data.jma.go.jp/stats/etrn/view/nml_amd_ym.php?prec_no=33&block_no=1078&year=&month=&day=&view=	平年日最高気温(℃)	11.3	-2.2	-1.3	2.5	10.0	16.7	20.3	23.3	24.4	20.3	14.2	7.3	0.6
+606	岩手県	区界	33	1447	https://www.data.jma.go.jp/stats/etrn/view/nml_amd_ym.php?prec_no=33&block_no=1447&year=&month=&day=&view=	平年日最高気温(℃)	10.9	-2.7	-1.6	2.3	9.5	16.1	19.7	23.1	24.1	19.9	13.6	6.9	0.3
+607	福島県	鷲倉	36	1116	https://www.data.jma.go.jp/stats/etrn/view/nml_amd_ym.php?prec_no=36&block_no=1116&year=&month=&day=&view=	平年日最高気温(℃)	9.1	-3.8	-2.9	0.8	7.4	14.1	17.3	20.6	21.8	17.6	11.9	5.7	-0.7
+608	青森県	酸ケ湯	31	1079	https://www.data.jma.go.jp/stats/etrn/view/nml_amd_ym.php?prec_no=31&block_no=1079&year=&month=&day=&view=	平年日最高気温(℃)	8.5	-5.1	-4.3	-0.2	6.4	13.1	17.6	21.1	21.9	17.7	11.4	4.5	-2.2

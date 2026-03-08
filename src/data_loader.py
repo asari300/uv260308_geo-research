@@ -1,22 +1,21 @@
 """
 気象データロードモジュール。
-Data loading module.
-
-Imports the weather dataset using polars.LazyFrame.
+Data loading module using Polars LazyFrame for Streamlit.
 """
-
 import polars as pl
-import os
+from pathlib import Path
+from src.config import METRICS_DIR, HEADS_TAILS_DIR
 
-def get_lazy_data() -> pl.LazyFrame:
-    """気象データをpolarsのLazyFrameとして読み込みます。
-    Load the weather data as a polars LazyFrame.
+def get_lazy_metric_data(metric: str) -> pl.LazyFrame:
+    """特定の指標の全データをLazyFrameとして読み込みます。"""
+    file_path = METRICS_DIR / f"{metric}.tsv"
+    if not file_path.exists():
+        raise FileNotFoundError(f"Data file not found: {file_path}")
+    return pl.scan_csv(file_path, separator='\t')
 
-    Returns:
-        pl.LazyFrame: A LazyFrame containing weather data.
-    """
-    file_path = os.path.join(os.path.dirname(os.path.dirname(__file__)), "data", "weather_data.csv")
-    if not os.path.exists(file_path):
-        raise FileNotFoundError(f"Data file not found: {file_path}. Please run data_generator.py.")
-    
-    return pl.scan_csv(file_path)
+def get_lazy_heads_tails(mode: str, metric: str) -> pl.LazyFrame:
+    """事前計算された上下5位のTSVをLazyFrameとして読み込みます。"""
+    file_path = HEADS_TAILS_DIR / f"top5_bottom5_{mode}_{metric}.tsv"
+    if not file_path.exists():
+        return pl.LazyFrame()
+    return pl.scan_csv(file_path, separator='\t')
